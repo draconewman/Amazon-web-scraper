@@ -1,4 +1,4 @@
-# Amazon-web-scraper
+# Amazon-web-scraper / Price Tracker
 
 First we are collecting data(web scraping) from a particular amazon product url using a python library called BeautifulSoup. Then we are stripping those data chunks to get price, product-title, date out of it using find() function. These are the column title of our csv dataset file, where we are storing the actual data. 
 
