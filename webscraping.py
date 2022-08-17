@@ -9,7 +9,6 @@ response data (content, encoding, status, etc).'''
 import time # refers to time independent of the day (hour, minute, second, microsecond)
 import datetime # combines date and time information
 import smtplib # to send mail to any internet machine with an SMTP or ESMTP listener daemon
-import datetime #to track when data was collected
 import csv #Create CSV and write headers and data into the file
 # import pandas as pd #for data manipulation and analysis
 
